@@ -1,0 +1,5 @@
+<!-- circle_mask.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#FF000F" />
+</shape>

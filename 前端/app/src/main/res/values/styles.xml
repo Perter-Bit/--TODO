@@ -1,0 +1,3 @@
+<resources>
+    <style name="ColorPickerDialog" parent="Theme.AppCompat.Light.Dialog"/>
+</resources>
