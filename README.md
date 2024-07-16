@@ -26,10 +26,10 @@
 
 **代办:**
 <div style="display: flex; justify-content: space-between;">
-    <img src="./fig/代办.png" style="width: 24%; height: auto;" alt="代办">
-    <img src="./fig/添加代办.png" style="width: 24%; height: auto;" alt="添加代办">
-    <img src="./fig/开启代办.png" style="width: 24%; height: auto;" alt="开启代办">
-    <img src="./fig/查看代办详情.png" style="width: 24%; height: auto;" alt="查看代办详情">
+    <img src="./fig/代办.png" style="width: 30%; height: auto;" alt="代办">
+    <img src="./fig/添加代办.png" style="width: 30%; height: auto;" alt="添加代办">
+    <img src="./fig/开启代办.png" style="width: 30%; height: auto;" alt="开启代办">
+    <img src="./fig/查看代办详情.png" style="width: 30%; height: auto;" alt="查看代办详情">
 </div>
 
 **数据分析:**
@@ -47,7 +47,7 @@
 
 **新闻:**
 <div style="display: flex;">
-    <img src="./fig/新闻页面.png" style="width: 30%; height: auto;" alt="新闻页面">
+    <img src="./fig/新闻界面.png" style="width: 30%; height: auto;" alt="新闻页面">
     <img src="./fig/查看新闻.png" style="width: 30%; height: auto;" alt="查看新闻">
 </div>
 
