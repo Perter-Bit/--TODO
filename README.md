@@ -16,7 +16,7 @@
 
 ## 4.部分页面展示
 **封面:**
-![content](./fig/封面.png)
+![content](./fig/封面.png =250x)
 **登录:**
 ![content](./fig/登录.png)![content](./fig/找回密码.png)![content](./fig/注册.png)
 **代办:**
