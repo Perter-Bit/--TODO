@@ -11,11 +11,12 @@
 * MySQL
 
 ## 3.数据库
-
+<br/>
 ![content](./fig/数据库.png)
 
 ## 4.部分页面展示
 **封面:**
+<br/>
 <img src="./fig/封面.png" style="width: 30%; height: auto;" />
 **登录:**
 <div style="display: flex; justify-content: space-around;">
@@ -25,6 +26,7 @@
 </div>
 
 **代办:**
+<br/>
 <div style="display: flex; justify-content: space-between;">
     <img src="./fig/代办.png" style="width: 30%; height: auto;" alt="代办">
     <img src="./fig/添加代办.png" style="width: 30%; height: auto;" alt="添加代办">
@@ -33,6 +35,7 @@
 </div>
 
 **数据分析:**
+<br/>
 <div style="display: flex; justify-content: space-between;">
     <img src="./fig/饼图.png" style="width: 30%; height: auto;" alt="饼图">
     <img src="./fig/雷达图.png" style="width: 30%; height: auto;" alt="雷达图">
@@ -40,12 +43,14 @@
 </div>
 
 **订阅:**
+<br/>
 <div style="display: flex; justify-content: space-between;">
     <img src="./fig/添加订阅.png" style="width: 30%; height: auto;" alt="添加订阅">
     <img src="./fig/开启订阅.png" style="width: 30%; height: auto;" alt="开启订阅">
 </div>
 
 **新闻:**
+<br/>
 <div style="display: flex;">
     <img src="./fig/新闻界面.png" style="width: 30%; height: auto;" alt="新闻页面">
     <img src="./fig/查看新闻.png" style="width: 30%; height: auto;" alt="查看新闻">
