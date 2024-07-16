@@ -12,7 +12,7 @@
 
 ## 3.数据库
 <br/>
-<img src="./fig/数据库.png" style="width: 30%; height: auto;" />
+<img src="./fig/数据库.png" style="width: 100%; height: auto;" />
 
 ## 4.部分页面展示
 **封面:**
