@@ -16,7 +16,9 @@
 
 ## 4.部分页面展示
 **封面:**
+
 <img src="./fig/封面.png" style="width: 30%; height: auto;" />
+
 **登录:**
 <div style="display: flex; justify-content: space-around;">
     <img src="./fig/登录.png" style="width: 30%; height: auto;" alt="登录">
