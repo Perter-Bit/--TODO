@@ -41,14 +41,14 @@
 
 **订阅:**
 <div style="display: flex; justify-content: space-between;">
-    <img src="./fig/添加订阅.png" style="width: 49%; height: auto;" alt="添加订阅">
-    <img src="./fig/开启订阅.png" style="width: 49%; height: auto;" alt="开启订阅">
+    <img src="./fig/添加订阅.png" style="width: 30%; height: auto;" alt="添加订阅">
+    <img src="./fig/开启订阅.png" style="width: 30%; height: auto;" alt="开启订阅">
 </div>
 
 **新闻:**
 <div style="display: flex;">
-    <img src="./fig/新闻页面.png" style="width: 50%; height: auto;" alt="新闻页面">
-    <img src="./fig/查看新闻.png" style="width: 50%; height: auto;" alt="查看新闻">
+    <img src="./fig/新闻页面.png" style="width: 30%; height: auto;" alt="新闻页面">
+    <img src="./fig/查看新闻.png" style="width: 30%; height: auto;" alt="查看新闻">
 </div>
 
 
