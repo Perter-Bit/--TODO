@@ -12,7 +12,7 @@
 
 ## 3.数据库
 <br/>
-![content](./fig/数据库.png)
+<img src="./fig/数据库.png" style="width: 30%; height: auto;" />
 
 ## 4.部分页面展示
 **封面:**
@@ -24,6 +24,7 @@
     <img src="./fig/找回密码.png" style="width: 30%; height: auto;" alt="找回密码">
     <img src="./fig/注册.png" style="width: 30%; height: auto;" alt="注册">
 </div>
+<br/>
 
 **代办:**
 <br/>
