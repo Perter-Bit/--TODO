@@ -18,6 +18,7 @@
 **封面:**
 <br/>
 <img src="./fig/封面.png" style="width: 30%; height: auto;" />
+<br/> 
 **登录:**
 <div style="display: flex; justify-content: space-around;">
     <img src="./fig/登录.png" style="width: 30%; height: auto;" alt="登录">
