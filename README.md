@@ -16,9 +16,13 @@
 
 ## 4.部分页面展示
 **封面:**
-<img src="./fig/数据库.png" style="width: 50%; height: auto;" />
+<img src="./fig/封面.png" style="width: 50%; height: auto;" />
 **登录:**
-![content](./fig/登录.png)![content](./fig/找回密码.png)![content](./fig/注册.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="./fig/登录.png" style="width: 30%; height: auto;" alt="登录">
+    <img src="./fig/找回密码.png" style="width: 30%; height: auto;" alt="找回密码">
+    <img src="./fig/注册.png" style="width: 30%; height: auto;" alt="注册">
+</div>
 **代办:**
 ![content](./fig/代办.png)![content](./fig/添加代办.png)![content](./fig/开启代办.png)![content](./fig/查看代办详情.png)
 **数据分析:**
