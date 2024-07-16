@@ -58,4 +58,11 @@
     <img src="./fig/查看新闻.png" style="width: 30%; height: auto;" alt="查看新闻">
 </div>
 
+**个人中心:**
+<br/>
+<div style="display: flex;">
+    <img src="./fig/个人中心.png" style="width: 30%; height: auto;" alt="个人中心">
+    <img src="./fig/更换主题颜色.png" style="width: 30%; height: auto;" alt="更换主题颜色">
+    <img src="./fig/退出.png" style="width: 30%; height: auto;" alt="退出">
+</div>
 
